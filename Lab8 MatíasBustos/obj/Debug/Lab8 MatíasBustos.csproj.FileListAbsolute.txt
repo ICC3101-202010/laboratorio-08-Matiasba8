@@ -1,0 +1,13 @@
+C:\Users\SEBASTIÁN\Desktop\Lab8 MatíasBustos\Lab8 MatíasBustos\bin\Debug\Lab8 MatíasBustos.exe.config
+C:\Users\SEBASTIÁN\Desktop\Lab8 MatíasBustos\Lab8 MatíasBustos\bin\Debug\Lab8 MatíasBustos.exe
+C:\Users\SEBASTIÁN\Desktop\Lab8 MatíasBustos\Lab8 MatíasBustos\bin\Debug\Lab8 MatíasBustos.pdb
+C:\Users\SEBASTIÁN\Desktop\Lab8 MatíasBustos\Lab8 MatíasBustos\bin\Debug\Models.dll
+C:\Users\SEBASTIÁN\Desktop\Lab8 MatíasBustos\Lab8 MatíasBustos\bin\Debug\Models.pdb
+C:\Users\SEBASTIÁN\Desktop\Lab8 MatíasBustos\Lab8 MatíasBustos\obj\Debug\Lab8 MatíasBustos.csprojAssemblyReference.cache
+C:\Users\SEBASTIÁN\Desktop\Lab8 MatíasBustos\Lab8 MatíasBustos\obj\Debug\Lab8_MatíasBustos.Properties.Resources.resources
+C:\Users\SEBASTIÁN\Desktop\Lab8 MatíasBustos\Lab8 MatíasBustos\obj\Debug\Lab8 MatíasBustos.csproj.GenerateResource.cache
+C:\Users\SEBASTIÁN\Desktop\Lab8 MatíasBustos\Lab8 MatíasBustos\obj\Debug\Lab8 MatíasBustos.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIÁN\Desktop\Lab8 MatíasBustos\Lab8 MatíasBustos\obj\Debug\Lab8 MatíasBustos.csproj.CopyComplete
+C:\Users\SEBASTIÁN\Desktop\Lab8 MatíasBustos\Lab8 MatíasBustos\obj\Debug\Lab8 MatíasBustos.exe
+C:\Users\SEBASTIÁN\Desktop\Lab8 MatíasBustos\Lab8 MatíasBustos\obj\Debug\Lab8 MatíasBustos.pdb
+C:\Users\SEBASTIÁN\Desktop\Lab8 MatíasBustos\Lab8 MatíasBustos\obj\Debug\Lab8_MatíasBustos.AppForm.resources
